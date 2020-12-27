@@ -11,7 +11,7 @@ setuptools.setup(
     description="Central Limit Theorem Playground",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ajayff4/testing2",
+    url="https://github.com/krypticmouse/CLTviz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
